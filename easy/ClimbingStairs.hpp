@@ -18,7 +18,7 @@ public:
         }
         return prev1;
     }
-},
+};
 
 // Recursive alternative but timeout:
 
