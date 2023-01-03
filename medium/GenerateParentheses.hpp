@@ -24,4 +24,4 @@ public:
             backtracking(cbn, n, opened, closed + 1, s + ')');
         return cbn;
     }
-};
+},

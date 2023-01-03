@@ -18,7 +18,7 @@ public:
         }
         return prev1;
     }
-};
+},
 
 // Recursive alternative but timeout:
 
@@ -31,4 +31,4 @@ public:
 //         else
 //             return climbStairs(n - 1) + climbStairs(n - 2);
 //     }
-// };
+// },
