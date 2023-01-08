@@ -16,9 +16,12 @@ These problems are designed to be a good starting point for those new to LeetCod
 Medium problems are more challenging than easy problems, and may require more advanced techniques. It involves a lot of **recursive algorithms**.
 I think these problems are a good way to improve my skills and prepare for more difficult challenges.
 
+- Heap’s Algorithm for generating permutations.
+- Fibonacci series and mathematical problems.
+
 ## Hard Problems
 Hard problems are the most challenging problems on LeetCode.
 These problems are designed to test your problem-solving and coding abilities to the limit, and may require a combination of advanced techniques and **creative thinking** to solve.
 
 Overall, the purpose of doing LeetCode exercises is to improve my skills in algorithms, design patterns, and problem solving. 
-I hope you find my solutions useful and informative, and I look forward to seeing your own solutions and progress on LeetCode!
+I hope you find my solutions useful and informative. If you find any mistakes, don't hesitate to reach out!
